@@ -1,5 +1,5 @@
 {
-  "name": "@freiraum/heic-decode",
+  "name": "heic-decode",
   "version": "1.1.5",
   "description": "Decode HEIC images to raw data",
   "main": "index.js",
