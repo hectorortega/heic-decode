@@ -1,4 +1,4 @@
-const libheif = require('@freiraum/libheif-js')
+const libheif = require('libheif-js')
 
 const uint8ArrayUtf8ByteString = (array, start, end) => {
   return String.fromCharCode(...array.slice(start, end))
